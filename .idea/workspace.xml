@@ -18,32 +18,101 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/cput/ac/za/Calculator.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cput/ac/za/Addition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="49">
-              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            <state relative-caret-position="102">
+              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
               <folding>
-                <element signature="e#94#95#0" expanded="true" />
-                <element signature="e#118#119#0" expanded="true" />
+                <element signature="e#96#97#0" expanded="true" />
+                <element signature="e#122#123#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cput/ac/za/CalculatorTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/cput/ac/za/AdditionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="251">
+              <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cput/ac/za/Subtraction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#94#95#0" expanded="true" />
+                <element signature="e#120#121#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/cput/ac/za/SubtractionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="383">
+              <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cput/ac/za/Multiplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+              <folding>
+                <element signature="e#98#99#0" expanded="true" />
+                <element signature="e#124#125#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/cput/ac/za/MultiplicationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/cput/ac/za/Division.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+              <folding>
+                <element signature="e#89#90#0" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/cput/ac/za/DivisionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/cput/ac/za/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="70">
+              <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -58,12 +127,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/cput/ac/za/Addition.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/cput/ac/za/Calculator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/cput/ac/za/Application.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cput/ac/za/CalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cput/ac/za/AdditionTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cput/ac/za/SubtractionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cput/ac/za/Multiplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cput/ac/za/Division.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cput/ac/za/Subtraction.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cput/ac/za/DivisionTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cput/ac/za/MultiplicationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cput/ac/za/Application.java" />
       </list>
     </option>
   </component>
@@ -74,11 +154,13 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="13" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="38" />
+    <option name="y" value="8" />
     <option name="width" value="1400" />
     <option name="height" value="784" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -132,6 +214,14 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Prac3_PT_216001730" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prac3_PT_216001730" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="za" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -139,7 +229,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551721701354" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551863655573" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
   </component>
@@ -163,7 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest.testAdditionIgnore">
+  <component name="RunManager" selected="Application.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cput.ac.za.Application" />
       <module name="Prac3_PT_216001730" />
@@ -177,7 +267,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DivisionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Prac3_PT_216001730" />
       <extension name="coverage">
         <pattern>
@@ -186,13 +276,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.cput.ac.za" />
-      <option name="MAIN_CLASS_NAME" value="com.cput.ac.za.CalculatorTest" />
+      <option name="MAIN_CLASS_NAME" value="com.cput.ac.za.DivisionTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest.testAddition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MultiplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Prac3_PT_216001730" />
       <extension name="coverage">
         <pattern>
@@ -201,14 +291,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.cput.ac.za" />
-      <option name="MAIN_CLASS_NAME" value="com.cput.ac.za.CalculatorTest" />
-      <option name="METHOD_NAME" value="testAddition" />
+      <option name="MAIN_CLASS_NAME" value="com.cput.ac.za.MultiplicationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplicationTest.testMultiply_ObjectEquality" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Prac3_PT_216001730" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cput.ac.za.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cput.ac.za" />
+      <option name="MAIN_CLASS_NAME" value="com.cput.ac.za.MultiplicationTest" />
+      <option name="METHOD_NAME" value="testMultiply_ObjectEquality" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest.testAdditionIgnore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SubtractionTest.testSubtract_IgnoreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Prac3_PT_216001730" />
       <extension name="coverage">
         <pattern>
@@ -217,24 +322,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.cput.ac.za" />
-      <option name="MAIN_CLASS_NAME" value="com.cput.ac.za.CalculatorTest" />
-      <option name="METHOD_NAME" value="testAdditionIgnore" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatorTest.testSubtraction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Prac3_PT_216001730" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cput.ac.za.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cput.ac.za" />
-      <option name="MAIN_CLASS_NAME" value="com.cput.ac.za.CalculatorTest" />
-      <option name="METHOD_NAME" value="testSubtraction" />
+      <option name="MAIN_CLASS_NAME" value="com.cput.ac.za.SubtractionTest" />
+      <option name="METHOD_NAME" value="testSubtract_IgnoreTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -242,11 +331,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CalculatorTest.testAdditionIgnore" />
-        <item itemvalue="JUnit.CalculatorTest.testAddition" />
-        <item itemvalue="JUnit.CalculatorTest" />
-        <item itemvalue="JUnit.CalculatorTest.testSubtraction" />
         <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.MultiplicationTest" />
+        <item itemvalue="JUnit.DivisionTest" />
+        <item itemvalue="JUnit.MultiplicationTest.testMultiply_ObjectEquality" />
+        <item itemvalue="JUnit.SubtractionTest.testSubtract_IgnoreTest" />
       </list>
     </recent_temporary>
   </component>
@@ -264,39 +353,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalculatorTest - 2019.03.04 at 19h 25m 23s.xml">
-      <configuration name="CalculatorTest" configurationId="JUnit" />
+    <history-entry file="SubtractionTest_testSubtract_FailingTest - 2019.03.06 at 09h 55m 17s.xml">
+      <configuration name="SubtractionTest.testSubtract_FailingTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorTest - 2019.03.04 at 19h 26m 46s.xml">
-      <configuration name="CalculatorTest" configurationId="JUnit" />
+    <history-entry file="SubtractionTest_testSubtract_Timeout - 2019.03.06 at 09h 55m 52s.xml">
+      <configuration name="SubtractionTest.testSubtract_Timeout" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorTest - 2019.03.04 at 19h 27m 13s.xml">
-      <configuration name="CalculatorTest" configurationId="JUnit" />
+    <history-entry file="SubtractionTest_testSubtract_Timeout - 2019.03.06 at 09h 56m 18s.xml">
+      <configuration name="SubtractionTest.testSubtract_Timeout" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorTest_testSubtraction - 2019.03.04 at 19h 33m 32s.xml">
-      <configuration name="CalculatorTest.testSubtraction" configurationId="JUnit" />
+    <history-entry file="SubtractionTest_testSubtract_IgnoreTest - 2019.03.06 at 09h 56m 40s.xml">
+      <configuration name="SubtractionTest.testSubtract_IgnoreTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorTest_testSubtraction - 2019.03.04 at 19h 34m 05s.xml">
-      <configuration name="CalculatorTest.testSubtraction" configurationId="JUnit" />
+    <history-entry file="SubtractionTest_testSubtract_IgnoreTest - 2019.03.06 at 09h 57m 10s.xml">
+      <configuration name="SubtractionTest.testSubtract_IgnoreTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorTest - 2019.03.04 at 19h 35m 06s.xml">
-      <configuration name="CalculatorTest" configurationId="JUnit" />
+    <history-entry file="MultiplicationTest - 2019.03.06 at 10h 53m 23s.xml">
+      <configuration name="MultiplicationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorTest_testAddition - 2019.03.04 at 19h 36m 15s.xml">
-      <configuration name="CalculatorTest.testAddition" configurationId="JUnit" />
+    <history-entry file="MultiplicationTest_testMultiply_ObjectEquality - 2019.03.06 at 10h 54m 54s.xml">
+      <configuration name="MultiplicationTest.testMultiply_ObjectEquality" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorTest - 2019.03.04 at 19h 36m 43s.xml">
-      <configuration name="CalculatorTest" configurationId="JUnit" />
+    <history-entry file="MultiplicationTest - 2019.03.06 at 10h 55m 03s.xml">
+      <configuration name="MultiplicationTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorTest_testAddition - 2019.03.04 at 19h 37m 25s.xml">
-      <configuration name="CalculatorTest.testAddition" configurationId="JUnit" />
+    <history-entry file="DivisionTest - 2019.03.06 at 10h 56m 45s.xml">
+      <configuration name="DivisionTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorTest_testAdditionIgnore - 2019.03.04 at 19h 42m 32s.xml">
-      <configuration name="CalculatorTest.testAdditionIgnore" configurationId="JUnit" />
+    <history-entry file="MultiplicationTest - 2019.03.06 at 10h 57m 11s.xml">
+      <configuration name="MultiplicationTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="31" y="7" width="1120" height="627" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -305,7 +394,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17785235" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -313,7 +402,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.23087819" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47272727" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -332,28 +421,99 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/cput/ac/za/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cput/ac/za/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding>
-            <element signature="e#94#95#0" expanded="true" />
-            <element signature="e#118#119#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cput/ac/za/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="170">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cput/ac/za/Addition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#122#123#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cput/ac/za/SubtractionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cput/ac/za/Subtraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cput/ac/za/Multiplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding>
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cput/ac/za/AdditionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="53" column="5" lean-forward="true" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cput/ac/za/Division.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cput/ac/za/DivisionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cput/ac/za/MultiplicationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cput/ac/za/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
